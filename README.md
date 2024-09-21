@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **I-vet Care**
 
-- 🌱 I’m currently learning **REACT, FLUTTER**
+- 🌱 I’m currently learning **DART, FLUTTER,**
 
-- 🤝 I’m looking for help with **Node.js**
+- 🤝 I’m looking for help with **Livestock managements system**
 
 - 👨‍💻 All of my projects are available at [https://ericwachaga.github.io/portfolio/](https://ericwachaga.github.io/portfolio/)
 
